@@ -14,8 +14,7 @@ googleAnalytics = ""
   description = "My website is under cunstruction"
   copyright = "&copy;2018 Arman Jabbari"
   sidebarAbout = [
-    "I am a creative illustrator and graphic designer with more than 10 years of experience.",
-    "Originally from Toronto, currently based in London."
+    "PhD candidate at University of California, Berkeley."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -29,7 +28,7 @@ googleAnalytics = ""
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "you@yoursite.com"
+  email = "a.jabbari@yberkeley.edu"
 
   # Nav links in the side bar
   [[params.navlinks]]
